@@ -1,2 +1,2 @@
 # trangat.github.io
-Sample website
+Sample website - please enjoy
